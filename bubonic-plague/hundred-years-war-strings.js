@@ -1,0 +1,20 @@
+const strings = [
+  'Welcome to a desktop application explaining the Hundred Years\' War!',
+  '<h1>What is the Hundred Years\' War?</h1>',
+  'English Kings claimed that they own some fiefs in French territory and France denied this.',
+  'This resulted in a serious conflict between the two sides that lasted over 100 years, from 1337-1453.',
+  '<next/>Loading image...^1000',
+  '<img src="https://cdnproduction.teachtci.com/system/images/19218/large/7_MW_SE_5_3_7P.jpg?1469835169" />',
+  'During the early years of the war, the English won the battles even when they were outnumbered<br/>Here is the reasoning:<ul><li>They were on foot, resulting in more control on handling</li><li>They used longbows instead of the French crossbows, increasing range, damage, and accuracy</li><li>They wore light armor, increasing speed</li><li>They were commonpeople and paid to fight</li></ul>',
+  'After a long truce, the war continued in 1415.',
+  'This time the English were met with stronger armies, because the French adopted modern weaponry and recruited commonpeople, but that was not it...',
+  'They also had inspiration. They were inspired by a peasant girl known as Joan of Arc who says she heard voices of saints telling her to fight.',
+  'She disguised herself as a boy and went to fight, but she was captured and executed.',
+  'This brought up the inspiration of the French causing them to drive out the English after 22 years.',
+  '<next/>Loading image...^1000',
+  '<img src="https://cdnproduction.teachtci.com/system/images/19217/large/7_MW_SE_5_3_6P.jpg?1469835145" />',
+  '<h1>Impact</h1>',
+  'Monarchs now didn\'t need the help of the lords because they had enough taxes and had hired large armies.',
+  'This war also brought patriotic thinking for the people for their monarchs.',
+  'Overall, this removed the dependency of monarchs on lords and brought a thinking for the monarch over the lord in the people causing the decline of feudalism.'
+];

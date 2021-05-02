@@ -1,0 +1,15 @@
+{
+  "name": "bubonic-plague",
+  "version": "1.0.0",
+  "description": "Desktop application on the Bubonic Plague",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Yash Singh",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^12.0.6",
+    "typed.js": "^2.0.12"
+  }
+}

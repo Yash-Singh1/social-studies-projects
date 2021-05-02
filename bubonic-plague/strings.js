@@ -1,0 +1,20 @@
+const strings = [
+  'Welcome to a desktop application explaining the bubonic plague!',
+  '<h1 style="display: inline">What is the Bubonic Plague?</h1>',
+  'The bubonic plague started in Central/Eastern Asia and reached Europe in the late 1340s.',
+  '<next/>Loading image...^1000',
+  '<img src="https://cdnproduction.teachtci.com/system/images/19215/large/7_MW_SE_5_2_4I.png?1469834722" />',
+  'The main cause of the spread was obviously trade, because that is the main way that contact is made between humans in those times. Lack of hygiene fueled the plague.',
+  'Symptoms included:<ul><li>Black/Blue Swellings</li><li>Fever</li><li>Extreme Coughing</li><li>Vomiting</li></ul>',
+  'The model for the spread was: fleas -> rodents -> humans',
+  'Because of low knowledge on science at the time the blame went to various places:<ul><li>Jews</li><li>Planets</li><li>Lepers</li></ul>',
+  '<h1>Impact</h1>',
+  'Approximately 1/3-1/2 of the population is said to be disappeared.',
+  '<next/>Loading image...^1000',
+  '<img src="https://cdnproduction.teachtci.com/system/images/19216/large/7_MW_SE_5_2_5P.jpg?1471304060" />',
+  'The plague did increase the power given to the people due to more demand for a workforce.',
+  'These workers asked for rights and money.',
+  'They therefore moved to cities and towns.',
+  'Multiple rebellions also broke out demanding for more money and rights.',
+  'Overall, this increased the need of work and contributed to the decline of feudalism.'
+];

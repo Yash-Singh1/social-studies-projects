@@ -1,0 +1,50 @@
+#press-space-container {
+  display: flex;
+  justify-content: center;
+}
+
+#press-space {
+  -webkit-text-size-adjust: 100%;
+  font-family: Lato, Helvetica Neue, Helvetica, sans-serif;
+  font-variant-ligatures: common-ligatures;
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+  font-size: 20px;
+  background-color: transparent;
+  display: inline-block;
+  height: auto;
+  padding: 6px 12px;
+  margin: auto;
+  font-weight: 400;
+  line-height: 1.4;
+  text-transform: uppercase;
+  overflow: hidden;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  touch-action: manipulation;
+  cursor: pointer;
+  user-select: none;
+  background-image: none;
+  border: none;
+  border-radius: 2px;
+  text-decoration: none;
+  color: #b9b9b9;
+  bottom: 10px;
+  position: absolute;
+}
+
+#press-space:hover {
+  color: #fff;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+#displayed-container {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 200%;
+  font-family: 'Baloo Bhai 2', cursive;
+  color: #fff;
+}
