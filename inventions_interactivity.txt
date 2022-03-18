@@ -1,0 +1,18 @@
+Chinese Inventions A-H by Yash Singh
+
+This will show a bash script that I wrote in 402 lines of code that explains the inventions.
+This script works on Mac and Linux without any extra interpreter installation. However, the script must be downloaded locally.
+You can download the script from the Padlet and then run:
+
+bash ~/Downloads/inventions_interactivity.sh
+
+Windows users must install Git Bash first. I haven tested this on any other operating system then Linux, so if it doesn't work on Mac or Windows, comment on my Padlet post.
+
+Instructions:
+
+- Reply y or n to the questions
+- Text will appear about each invention
+- In the end you will be presented with three options
+- If at any time it is desired to quit the script use the Ctrl+C command (Copy-paste works with Ctrl+Insert and Shift+Insert) 
+
+Now let's see the real thing.
